@@ -15,7 +15,6 @@ autoboxing
 block                        
 breakpoint                                            
 cast                         
-chapter 05                   
 checked exception            
 class                        
 class cohesion               
